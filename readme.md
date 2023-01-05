@@ -43,4 +43,8 @@ Change the directory to `dbtpoc`
 cd dbtpoc
 ```
 
-Run  `dbt debug`
+Run the following commands to investigate the outcome:
+```
+dbt debug
+dbt test
+``` 
